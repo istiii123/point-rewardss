@@ -1,0 +1,13 @@
+osha_reward_web/
+│
+├── app.py
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── dashboard.html
+│   └── redeem.html
+├── static/
+│   └── style.css
+├── database.db
+├── requirements.txt
+└── README.md
